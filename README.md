@@ -6,31 +6,31 @@ tasks in customer success: preparing Quarterly Business Reviews.
 ## Why this project
 
 A CSM managing 20-40 accounts can lose days each quarter pulling metrics,
-building slides, and writing summaries for QBRs -- often for accounts
+building slides and writing summaries for QBRs, often for accounts
 that don't need a deep-dive. This project automates the entire pipeline:
 raw account data in, polished, presentation-ready PDF QBR documents out,
 with the busy-work (data pulling, chart building, first-draft narrative)
-handled automatically so the CSM's time goes into the actual customer
+handled automatically, so the CSM's time goes into the actual customer
 conversation instead of the deck.
 
 ## What it does
 
-1. **`01_generate_qbr_data.py`** -- Generates 4 quarters of historical
+1. **`01_generate_qbr_data.py`** - Generates 4 quarters of historical
    data for 5 sample accounts due for a QBR: health score trend, usage
    trend, support ticket volume, and account-specific wins/risks. (In
    production: pulled from CRM, product analytics, support tool, and
    billing.)
 
-2. **`02_generate_narrative.py`** -- Converts structured data into QBR
+2. **`02_generate_narrative.py`** - Converts structured data into QBR
    narrative text: an executive summary, trend read, and a recommended
    next step -- using a rules engine that mirrors how you'd structure a
    prompt to an LLM for this task. This step is intentionally isolated
    from the data and rendering steps so it's a drop-in swap for an
    actual LLM API call in production (see note in the script).
 
-3. **`03_build_qbr_pdfs.py`** -- Renders one polished, print-ready PDF
+3. **`03_build_qbr_pdfs.py`** - Renders one polished, print-ready PDF
    per account: key metrics table, health/usage trend chart, wins,
-   risks, and a recommended next step -- the kind of document a CSM
+   risks, and a recommended next step, the kind of document a CSM
    could walk into a customer meeting with.
 
 ## Results

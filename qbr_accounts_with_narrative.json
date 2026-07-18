@@ -1,0 +1,231 @@
+[
+  {
+    "name": "Brightline Logistics",
+    "segment": "Enterprise",
+    "arr": 184000,
+    "csm": "Melissa McGowan",
+    "renewal_in_days": 62,
+    "trend": "improving",
+    "quarters": [
+      "Q3 2025",
+      "Q4 2025",
+      "Q1 2026",
+      "Q2 2026"
+    ],
+    "health_score_by_quarter": [
+      63.1,
+      64.6,
+      74.1,
+      83.2
+    ],
+    "usage_score_by_quarter": [
+      36.8,
+      52.7,
+      65.3,
+      71.0
+    ],
+    "support_tickets_by_quarter": [
+      3,
+      3,
+      1,
+      2
+    ],
+    "current_health_score": 83.2,
+    "current_health_band": "Healthy",
+    "wins": [
+      "Positive feedback in latest NPS survey citing support responsiveness",
+      "Champion promoted internally and remains strong advocate",
+      "Integrated our platform into their core workflow (Salesforce sync live)"
+    ],
+    "risks": [],
+    "narrative": {
+      "executive_summary": "Brightline Logistics enters this QBR in strong standing. Health score has climbed 20 points over the last four quarters, and the account shows consistent engagement across usage and relationship signals.",
+      "recommendation": "Use this QBR to explore expansion -- additional seats, modules, or a case study/reference ask, given the strength of the relationship.",
+      "trend_direction": "improving"
+    }
+  },
+  {
+    "name": "Fernwood Health Group",
+    "segment": "Enterprise",
+    "arr": 96000,
+    "csm": "Melissa McGowan",
+    "renewal_in_days": 45,
+    "trend": "declining",
+    "quarters": [
+      "Q3 2025",
+      "Q4 2025",
+      "Q1 2026",
+      "Q2 2026"
+    ],
+    "health_score_by_quarter": [
+      80.2,
+      65.8,
+      54.2,
+      41.0
+    ],
+    "usage_score_by_quarter": [
+      68.5,
+      53.7,
+      41.9,
+      25.6
+    ],
+    "support_tickets_by_quarter": [
+      3,
+      6,
+      5,
+      9
+    ],
+    "current_health_score": 41.0,
+    "current_health_band": "At Risk",
+    "wins": [
+      "Adopted the reporting/analytics module after Q1 enablement session"
+    ],
+    "risks": [
+      "No executive sponsor engagement in over 150 days",
+      "Key integration has been broken/unused since last quarter"
+    ],
+    "narrative": {
+      "executive_summary": "Fernwood Health Group requires immediate attention. Health score has dropped 39 points over the last four quarters, moving the account into the At Risk band. This QBR should focus on a recovery plan, not a standard business review.",
+      "recommendation": "Address the top risk factor directly with the account before discussing renewal terms. Consider a mid-cycle check-in rather than waiting for the QBR. Renewal is in 45 days -- treat this as time-sensitive.",
+      "trend_direction": "declining"
+    }
+  },
+  {
+    "name": "Aster & Co.",
+    "segment": "Mid-Market",
+    "arr": 38000,
+    "csm": "Melissa McGowan",
+    "renewal_in_days": 90,
+    "trend": "flat",
+    "quarters": [
+      "Q3 2025",
+      "Q4 2025",
+      "Q1 2026",
+      "Q2 2026"
+    ],
+    "health_score_by_quarter": [
+      59.4,
+      67.4,
+      68.2,
+      67.4
+    ],
+    "usage_score_by_quarter": [
+      42.3,
+      44.3,
+      46.2,
+      47.9
+    ],
+    "support_tickets_by_quarter": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "current_health_score": 67.4,
+    "current_health_band": "Neutral",
+    "wins": [
+      "Positive feedback in latest NPS survey citing support responsiveness",
+      "Adopted the reporting/analytics module after Q1 enablement session"
+    ],
+    "risks": [
+      "Usage concentrated in a shrinking subset of the licensed seats"
+    ],
+    "narrative": {
+      "executive_summary": "Aster & Co. is currently in the Neutral band with an improving trend (+8 points over four quarters). Worth a closer look at what's driving the shift before the renewal conversation.",
+      "recommendation": "Standard QBR cadence is appropriate. Reconfirm success metrics and surface any early risk signals before they compound.",
+      "trend_direction": "improving"
+    }
+  },
+  {
+    "name": "Northgate Retail Partners",
+    "segment": "Mid-Market",
+    "arr": 52000,
+    "csm": "Melissa McGowan",
+    "renewal_in_days": 30,
+    "trend": "at_risk",
+    "quarters": [
+      "Q3 2025",
+      "Q4 2025",
+      "Q1 2026",
+      "Q2 2026"
+    ],
+    "health_score_by_quarter": [
+      61.9,
+      50.3,
+      41.9,
+      28.1
+    ],
+    "usage_score_by_quarter": [
+      52.3,
+      38.7,
+      27.3,
+      13.5
+    ],
+    "support_tickets_by_quarter": [
+      3,
+      6,
+      7,
+      10
+    ],
+    "current_health_score": 28.1,
+    "current_health_band": "Critical",
+    "wins": [
+      "Integrated our platform into their core workflow (Salesforce sync live)"
+    ],
+    "risks": [
+      "Two P1 support escalations in the last 60 days",
+      "Primary champion departed the company in the last quarter",
+      "Usage concentrated in a shrinking subset of the licensed seats"
+    ],
+    "narrative": {
+      "executive_summary": "Northgate Retail Partners requires immediate attention. Health score has dropped 34 points over the last four quarters, moving the account into the Critical band. This QBR should focus on a recovery plan, not a standard business review.",
+      "recommendation": "Escalate to a save-play: schedule an executive-to-executive call within 2 weeks, and involve your manager before the renewal conversation. Renewal is in 30 days -- treat this as time-sensitive.",
+      "trend_direction": "declining"
+    }
+  },
+  {
+    "name": "Cobalt Manufacturing",
+    "segment": "Enterprise",
+    "arr": 210000,
+    "csm": "Melissa McGowan",
+    "renewal_in_days": 75,
+    "trend": "improving",
+    "quarters": [
+      "Q3 2025",
+      "Q4 2025",
+      "Q1 2026",
+      "Q2 2026"
+    ],
+    "health_score_by_quarter": [
+      62.0,
+      64.6,
+      77.3,
+      82.2
+    ],
+    "usage_score_by_quarter": [
+      36.1,
+      52.3,
+      65.3,
+      83.7
+    ],
+    "support_tickets_by_quarter": [
+      2,
+      2,
+      1,
+      1
+    ],
+    "current_health_score": 82.2,
+    "current_health_band": "Healthy",
+    "wins": [
+      "Renewed early with a multi-year commitment",
+      "Adopted the reporting/analytics module after Q1 enablement session",
+      "Expanded seat count after successful rollout to a second business unit"
+    ],
+    "risks": [],
+    "narrative": {
+      "executive_summary": "Cobalt Manufacturing enters this QBR in strong standing. Health score has climbed 20 points over the last four quarters, and the account shows consistent engagement across usage and relationship signals.",
+      "recommendation": "Use this QBR to explore expansion -- additional seats, modules, or a case study/reference ask, given the strength of the relationship.",
+      "trend_direction": "improving"
+    }
+  }
+]
